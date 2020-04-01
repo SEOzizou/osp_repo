@@ -4,3 +4,9 @@ contents is modified
 #####이 아래는 branch_1에서 수정된 내용입니다.####
 merge를 위해 내용을 새롭게 입력했고 vi를 통해 내용을 새로 입력했습니다.
 #####
+###이부분은 branch_2에서 수정된 내용입니다.####
+rebase를 위해 이제 내용을 입력했습니다 동일하게 vi에서 수정되었고 
+수정후에 branch_2에서 rebase 할 것입니다. 
+여기서 merge와 차이점이 있는데 merge는 master에서 merge를 수행하나 
+rebase에서는 그 해당 branch에서 rebase를 수행하는것 같습니다,
+#######################
