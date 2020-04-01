@@ -1,2 +1,6 @@
 new new new (modified in the web(remote not local?))
 contents is modified
+
+#####이 아래는 branch_1에서 수정된 내용입니다.####
+merge를 위해 내용을 새롭게 입력했고 vi를 통해 내용을 새로 입력했습니다.
+#####
